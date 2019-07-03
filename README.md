@@ -1,3 +1,2 @@
-# hello-world
-Test
-This is my second test
+# ML-kode
+Eksempler
